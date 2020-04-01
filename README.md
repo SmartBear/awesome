@@ -85,6 +85,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [ReadyAPI TestEngine-CLI](https://github.com/SmartBear/testengine-cli) - Node based command line interface for ReadyAPI TestEngine
 - [ReadyAPI TestServer Samples](https://github.com/SmartBear/ready-api-testserver-samples) - Samples showing how to run API tests with ReadyAPI TestServer
 - [ReadyAPI4j](https://github.com/SmartBear/readyapi4j) - Java library for BDD and code-driven API testing supporting both local and remote test execution
+- [ReadyAPI4j DSL](https://github.com/SmartBear/readyapi4j/tree/master/modules/groovy-dsl) - Domain-specific language (DSL) for tests
 
 ### SoapUI
 
@@ -154,6 +155,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [Godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [HAR Java](https://github.com/SmartBear/har-java) - A Java library to read from har format and to write in har format
 - [ReadyAPI4j](https://github.com/SmartBear/readyapi4j) - Java library for BDD and code-driven API testing supporting both local and remote test execution
+- [ReadyAPI4j DSL](https://github.com/SmartBear/readyapi4j/tree/master/modules/groovy-dsl) - Domain-specific language (DSL) for tests
 - [ruby-handlebars](https://github.com/SmartBear/ruby-handlebars) - Pure Ruby library for Handlebars templates
 - [ReadyAPI TestEngine-CLI](https://github.com/SmartBear/testengine-cli) - Node based command line interface for ReadyAPI TestEngine
 - [SoapUI Test Runner Docker Image](https://github.com/SmartBear/docker-soapui-testrunner) - Docker SoapUI Test Runner
@@ -226,6 +228,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### Groovy
 
 - [Eclipse Groovy Development Tools](https://github.com/SmartBear/groovy-eclipse) - This project provides Eclipse and Maven tooling support for the Apache Groovy programming language
+- [ReadyAPI4j DSL](https://github.com/SmartBear/readyapi4j/tree/master/modules/groovy-dsl) - Domain-specific language (DSL) for tests
 
 ### Java
 
