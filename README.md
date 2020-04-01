@@ -29,10 +29,12 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [By Technology](#by-technology)
 
   - [Docker](#docker)
+  - [Gradle](#gradle)
   - [Groovy](#groovy)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Ruby](#ruby)
+  - [Scala](#scala)
 
 ## By Product
 
@@ -68,9 +70,22 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 ### Swagger
 
-- [Swagger Editor](https://github.com/SmartBear/swagger-editor) - Edit Swagger API specifications in YAML inside your browser and to preview documentations in real time
-- [Swagger UI](https://github.com/SmartBear/swagger-ui) - A collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API
-- [swaggerhub-maven-plugin](https://github.com/SmartBear/swaggerhub-maven-plugin) - A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger definitions with a maven build process, using the SwaggerHub API
+- [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) - A template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition
+- [Swagger Converter](https://github.com/swagger-api/swagger-converter) - OpenAPI/Swagger 2.0 to OpenAPI 3.0 Converter WebService
+- [Swagger Core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+- [Swagger Editor](https://github.com/swagger-api/swagger-editor) - Edit Swagger API specifications in YAML inside your browser and to preview documentations in real time
+- [Swagger JS Client](https://github.com/swagger-api/swagger-js) - Javascript library to connect to swagger-enabled APIs via browser or nodejs
+- [Swagger Node](https://github.com/swagger-api/swagger-node) - Swagger module for node.js
+- [Swagger Parser](https://github.com/swagger-api/swagger-parser) - Swagger Spec to Java POJOs
+- [Swagger Play Framework Sample App](https://github.com/swagger-api/swagger-play-sample-app) - A sample play app which uses swagger plugin to make the age old pet store swagger compliant
+- [Swagger Sample App](https://github.com/swagger-api/swagger-scala-sample-app) - A fully-functioning, stand-alone Swagger server written in scala which demonstrates how to enable Swagger in your API
+- [Swagger Samples](https://github.com/swagger-api/swagger-samples) - Samples for the various Swagger projects under swagger-api
+- [Swagger Scala Module](https://github.com/swagger-api/swagger-scala-module) - Swagger support for scala
+- [Swagger Socket](https://github.com/swagger-api/swagger-socket) - A REST over WebSocket
+- [Swagger UI](https://github.com/swagger-api/swagger-ui) - A collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API
+- [Swagger Validator Badge](https://github.com/swagger-api/validator-badge) - Validate your Swagger JSON/YAML today!
+- [SwaggerHub Gradle Plugin](https://github.com/swagger-api/swaggerhub-gradle-plugin) - Gradle plugin for SwaggerHub
+- [SwaggerHub Maven Plugin](https://github.com/swagger-api/swaggerhub-maven-plugin) - A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger definitions with a maven build process, using the SwaggerHub API
 
 ### TestComplete
 
@@ -85,8 +100,9 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### Apps
 
 - [SoapUI](https://github.com/SmartBear/soapui) - A free and open source cross-platform functional testing solution for APIs and web services
-- [Swager Editor](https://github.com/SmartBear/swagger-editor) - Edit Swagger API specifications in YAML inside your browser and to preview documentations in real time
-- [Swagger UI](https://github.com/SmartBear/swagger-ui) - A collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API
+- [Swager Editor](https://github.com/swagger-api/swagger-editor) - Edit Swagger API specifications in YAML inside your browser and to preview documentations in real time
+- [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) - A template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition
+- [Swagger UI](https://github.com/swagger-api/swagger-ui) - A collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API
 
 ### Tools and Libraries
 
@@ -99,6 +115,12 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [ReadyAPI TestEngine-CLI](https://github.com/SmartBear/testengine-cli) - Node based command line interface for ReadyAPI TestEngine
 - [SoapUI Test Runner Docker Image](https://github.com/SmartBear/docker-soapui-testrunner) - Docker SoapUI Test Runner
 - [swagger4j](https://github.com/SmartBear/swagger4j) - A simple java library for reading and writing Swagger 1.X definitions
+- [Swagger Converter](https://github.com/swagger-api/swagger-converter) - OpenAPI/Swagger 2.0 to OpenAPI 3.0 Converter WebService
+- [Swagger JS Client](https://github.com/swagger-api/swagger-js) - Javascript library to connect to swagger-enabled APIs via browser or nodejs
+- [Swagger Node](https://github.com/swagger-api/swagger-node) - Swagger module for node.js
+- [Swagger Parser](https://github.com/swagger-api/swagger-parser) - Swagger Spec to Java POJOs
+- [Swagger Scala Module](https://github.com/swagger-api/swagger-scala-module) - Swagger support for scala
+- [Swagger Validator Badge](https://github.com/swagger-api/validator-badge) - Validate your Swagger JSON/YAML today!
 
 ### Extensions and Plugins
 
@@ -111,7 +133,8 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [ReadyAPI Postman Plugin](https://github.com/SmartBear/readyapi-postman-plugin) - Allows you to import your Postman collections into ReadyAPI
 - [SoapUI Pro Functional Testing Plugin](https://github.com/SmartBear/soapui-pro-functional-testing-teamcity-plugin) - A SmartBear plugin used to run SoapUI Pro tests on TeamCity agents
 - [SoapUI RAML Plugin](https://github.com/SmartBear/soapui-raml-plugin)
-- [swaggerhub-maven-plugin](https://github.com/SmartBear/swaggerhub-maven-plugin) - A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger definitions with a maven build process, using the SwaggerHub API
+- [SwaggerHub Gradle Plugin](https://github.com/swagger-api/swaggerhub-gradle-plugin) - Gradle plugin for SwaggerHub
+- [SwaggerHub Maven Plugin](https://github.com/swagger-api/swaggerhub-maven-plugin) - A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger definitions with a maven build process, using the SwaggerHub API
 - [Zephyr Enterprise Test Management connector for Jenkins](https://github.com/SmartBear/zephyr-enterprise-test-management-plugin) - Creates test cases and publishes test results in Zephyr Enterprise for JUnit test cases
 
 ### Resources
@@ -121,6 +144,11 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [CucumberStudio issue tracker](https://github.com/SmartBear/cucumberstudio-issue-tracker) - This repository tracks bugs and feature requests for CucumberStudio, BDD-enthusiastic collaboration platform for Agile and DevOps teams
 - [ReadyAPI Plugin Development Kit](https://github.com/SmartBear/ready-api-plugins) - Everything needed to get started with building plugins for SmartBear's ReadyAPI Platform
 - [ReadyAPI TestServer Samples](https://github.com/SmartBear/ready-api-testserver-samples) - Samples showing how to run API tests with ReadyAPI TestServer
+- [Swagger Core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+- [Swagger Play Framework Sample App](https://github.com/swagger-api/swagger-play-sample-app) - A sample play app which uses swagger plugin to make the age old pet store swagger compliant
+- [Swagger Sample App](https://github.com/swagger-api/swagger-scala-sample-app) - A fully-functioning, stand-alone Swagger server written in scala which demonstrates how to enable Swagger in your API
+- [Swagger Samples](https://github.com/swagger-api/swagger-samples) - Samples for the various Swagger projects under swagger-api
+- [Swagger Socket](https://github.com/swagger-api/swagger-socket) - A REST over WebSocket
 
 ## By Technology
 
@@ -132,6 +160,11 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [ubunopy](https://github.com/bitbar/ubunopy) - (Ubu)ntu based Docker image with (No)de.js and (Py)thon inside
 - [ubupy](https://github.com/bitbar/ubupy) - (Ubu)ntu based Docker image with (Py)thon; Ansible Molecule ready
 
+### Gradle
+
+- [Bitbar Cloud Gradle Plugin](https://github.com/bitbar/android-gradle-plugin) - Gradle plugin for Bitbar Cloud
+- [SwaggerHub Gradle Plugin](https://github.com/swagger-api/swaggerhub-gradle-plugin) - Gradle plugin for SwaggerHub
+
 ### Groovy
 
 - [Eclipse Groovy Development Tools](https://github.com/SmartBear/groovy-eclipse) - This project provides Eclipse and Maven tooling support for the Apache Groovy programming language
@@ -142,12 +175,19 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [HAR Java](https://github.com/SmartBear/har-java) - A Java library to read from har format and to write in har format
 - [ReadyAPI4j](https://github.com/SmartBear/readyapi4j) - Java library for BDD and code-driven API testing supporting both local and remote test execution
 - [swagger4j](https://github.com/SmartBear/swagger4j) - A simple java library for reading and writing Swagger 1.X definitions
-- [swaggerhub-maven-plugin](https://github.com/SmartBear/swaggerhub-maven-plugin) - A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger definitions with a maven build process, using the SwaggerHub API
+- [SwaggerHub Maven Plugin](https://github.com/swagger-api/swaggerhub-maven-plugin) - A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger definitions with a maven build process, using the SwaggerHub API
+- [Swagger Parser](https://github.com/swagger-api/swagger-parser) - Swagger Spec to Java POJOs
 
 ### JavaScript
 
 - [Deferred Promise](https://github.com/bitbar/deferred-promise) - Simple port of jQuery Deffered() based on native Promise
+- [Swagger JS Client](https://github.com/swagger-api/swagger-js) - Javascript library to connect to swagger-enabled APIs via browser or nodejs
+- [Swagger Node](https://github.com/swagger-api/swagger-node) - Swagger module for node.js
 
 ### Ruby
 
 - [ruby-handlebars](https://github.com/SmartBear/ruby-handlebars) - Pure Ruby library for Handlebars templates
+
+### Scala
+
+- [Swagger Scala Module](https://github.com/swagger-api/swagger-scala-module) - Swagger support for scala
