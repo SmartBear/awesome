@@ -62,7 +62,6 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [CBT and Mocha](https://github.com/crossbrowsertesting/selenium-js-mocha) - An example of writing Selenium tests with Mocha that run on CBT
 - [CBT API Sample Scripts](https://github.com/crossbrowsertesting/API-Sample-Scripts) - Sample scripts for getting started with the CrossBrowserTesting API
 - [CBT selenium-python](https://github.com/crossbrowsertesting/selenium-python) - Selenium script examples using Python for CrossBrowserTesting.com
-- [CBT tunnel-java](https://github.com/crossbrowsertesting/cbt-tunnel-java) - Java JAR for creating Local Connections to CrossBrowserTesting.com on the command line
 - [CBT tunnel-nodejs](https://github.com/crossbrowsertesting/cbt-tunnel-nodejs) - Node.js module for Local Connections to crossbrowsertesting.com
 - [CBT WebDriverIO](https://github.com/crossbrowsertesting/selenium-webdriverio) - Getting Started with WebDriverIO and CrossBrowserTesting
 
@@ -154,7 +153,6 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
 - [Bitbar Cloud API Client for JavaScript](https://github.com/bitbar/cloud-api-client-js)
 - [Bitbar Remote Device Client](https://github.com/bitbar/remote-device-client)
-- [CBT tunnel-java](https://github.com/crossbrowsertesting/cbt-tunnel-java) - Java JAR for creating Local Connections to CrossBrowserTesting.com on the command line
 - [CBT tunnel-nodejs](https://github.com/crossbrowsertesting/cbt-tunnel-nodejs) - Node.js module for Local Connections to crossbrowsertesting.com
 - [Cucumber](https://github.com/cucumber/cucumber) - Cucumber monorepo - building blocks for Cucumber in various languages
 - [Cucumber C++](https://github.com/cucumber/cucumber-cpp) - Support for writing Cucumber step definitions in C++
@@ -256,7 +254,6 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
 - [Bitbar Remote Device Client](https://github.com/bitbar/remote-device-client)
-- [CBT tunnel-java](https://github.com/crossbrowsertesting/cbt-tunnel-java) - Java JAR for creating Local Connections to CrossBrowserTesting.com on the command line
 - [Cucumber Java Skeleton](https://github.com/cucumber/cucumber-java-skeleton) - This is the simplest possible setup for Cucumber-JVM using Java
 - [Cucumber JVM](https://github.com/cucumber/cucumber-jvm) - Cucumber for the JVM
 - [Gherkin Java](https://github.com/cucumber/gherkin-java) - Gherkin parser/compiler for Java
