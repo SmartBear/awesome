@@ -266,3 +266,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [Cucumber Ruby Wire](https://github.com/cucumber/cucumber-ruby-wire) - Wire protocol plugin for Cucumber
 - [Gherkin Ruby](https://github.com/cucumber/gherkin-ruby) - Gherkin parser/compiler for Ruby
 - [Ruby Handlebars](https://github.com/SmartBear/ruby-handlebars) - Pure Ruby library for Handlebars templates
+
+## License
+
+This document is using [CC0 1.0 Universal](LICENSE).
