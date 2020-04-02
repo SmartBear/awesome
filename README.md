@@ -49,6 +49,11 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### Bitbar
 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
+- [Bitbar Cloud API Client for JavaScript](https://github.com/bitbar/cloud-api-client-js)
+- [Bitbar Cloud API Client for Python](https://github.com/bitbar/testdroid-api-client-python)
+- [Bitbar Cloud API Client for Ruby](https://github.com/bitbar/cloud-api-client-ruby)
+- [Bitbar Cloud Gradle Plugin](https://github.com/bitbar/android-gradle-plugin) - Gradle plugin for Bitbar Cloud
+- [Bitbar Remote Device Client](https://github.com/bitbar/remote-device-client)
 - [Bitbar Test Samples](https://github.com/bitbar/test-samples) - This repository contains Bitbar Cloud sample test scripts and applications
 
 ### CrossBrowserTesting
@@ -147,6 +152,8 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### Tools and Libraries
 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
+- [Bitbar Cloud API Client for JavaScript](https://github.com/bitbar/cloud-api-client-js)
+- [Bitbar Remote Device Client](https://github.com/bitbar/remote-device-client)
 - [CBT tunnel-java](https://github.com/crossbrowsertesting/cbt-tunnel-java) - Java JAR for creating Local Connections to CrossBrowserTesting.com on the command line
 - [CBT tunnel-nodejs](https://github.com/crossbrowsertesting/cbt-tunnel-nodejs) - Node.js module for Local Connections to crossbrowsertesting.com
 - [Cucumber](https://github.com/cucumber/cucumber) - Cucumber monorepo - building blocks for Cucumber in various languages
@@ -169,6 +176,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [Gherkin Ruby](https://github.com/cucumber/gherkin-ruby) - Gherkin parser/compiler for Ruby
 - [Godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [HAR Java](https://github.com/SmartBear/har-java) - A Java library to read from har format and to write in har format
+- [OpenCV for mobile testing](https://github.com/bitbar/opencv-library) - An image recognition library that can be used for mobile application testing
 - [ReadyAPI4j](https://github.com/SmartBear/readyapi4j) - Java library for BDD and code-driven API testing supporting both local and remote test execution
 - [ReadyAPI4j DSL](https://github.com/SmartBear/readyapi4j/tree/master/modules/groovy-dsl) - Domain-specific language (DSL) for tests
 - [ruby-handlebars](https://github.com/SmartBear/ruby-handlebars) - Pure Ruby library for Handlebars templates
@@ -247,11 +255,13 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### Java
 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
+- [Bitbar Remote Device Client](https://github.com/bitbar/remote-device-client)
 - [CBT tunnel-java](https://github.com/crossbrowsertesting/cbt-tunnel-java) - Java JAR for creating Local Connections to CrossBrowserTesting.com on the command line
 - [Cucumber Java Skeleton](https://github.com/cucumber/cucumber-java-skeleton) - This is the simplest possible setup for Cucumber-JVM using Java
 - [Cucumber JVM](https://github.com/cucumber/cucumber-jvm) - Cucumber for the JVM
 - [Gherkin Java](https://github.com/cucumber/gherkin-java) - Gherkin parser/compiler for Java
 - [HAR Java](https://github.com/SmartBear/har-java) - A Java library to read from har format and to write in har format
+- [OpenCV for mobile testing](https://github.com/bitbar/opencv-library) - An image recognition library that can be used for mobile application testing
 - [ReadyAPI4j](https://github.com/SmartBear/readyapi4j) - Java library for BDD and code-driven API testing supporting both local and remote test execution
 - [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) - A template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition
 - [Swagger Core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
@@ -261,6 +271,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 ### JavaScript
 
+- [Bitbar Cloud API Client for JavaScript](https://github.com/bitbar/cloud-api-client-js)
 - [CBT and Mocha](https://github.com/crossbrowsertesting/selenium-js-mocha) - An example of writing Selenium tests with Mocha that run on CBT
 - [CBT tunnel-nodejs](https://github.com/crossbrowsertesting/cbt-tunnel-nodejs) - Node.js module for Local Connections to crossbrowsertesting.com
 - [CBT WebDriverIO](https://github.com/crossbrowsertesting/selenium-webdriverio) - Getting Started with WebDriverIO and CrossBrowserTesting
@@ -283,11 +294,13 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 ### Python
 
+- [Bitbar Cloud API Client for Python](https://github.com/bitbar/testdroid-api-client-python)
 - [CBT selenium-python](https://github.com/crossbrowsertesting/selenium-python) - Selenium script examples using Python for CrossBrowserTesting.com
 - [Gherkin Python](https://github.com/cucumber/gherkin-python) - Gherkin parser/compiler for Python
 
 ### Ruby
 
+- [Bitbar Cloud API Client for Ruby](https://github.com/bitbar/cloud-api-client-ruby)
 - [Cucumber Rails](https://github.com/cucumber/cucumber-rails) - Rails Generators for Cucumber with special support for Capybara and DatabaseCleaner
 - [Cucumber Ruby](https://github.com/cucumber/cucumber-ruby) - Cucumber for Ruby
 - [Cucumber Ruby Core](https://github.com/cucumber/cucumber-ruby-core) - Core library for the Ruby flavour of Cucumber
