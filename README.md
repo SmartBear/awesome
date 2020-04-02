@@ -16,6 +16,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
   - [ReadyAPI](#readyapi)
   - [SoapUI](#SoapUI)
   - [Swagger](#swagger)
+  - [SwaggerHub](#swaggerhub)
   - [TestComplete](#testcomplete)
   - [Zephyr](#zephyr)
 
@@ -105,6 +106,9 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [Swagger Samples](https://github.com/swagger-api/swagger-samples) - Samples for the various Swagger projects under swagger-api
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - A collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API
 - [Swagger Validator Badge](https://github.com/swagger-api/validator-badge) - Validate your Swagger JSON/YAML today!
+
+### SwaggerHub
+
 - [SwaggerHub Gradle Plugin](https://github.com/swagger-api/swaggerhub-gradle-plugin) - Gradle plugin for SwaggerHub
 - [SwaggerHub Maven Plugin](https://github.com/swagger-api/swaggerhub-maven-plugin) - A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger definitions with a maven build process, using the SwaggerHub API
 
