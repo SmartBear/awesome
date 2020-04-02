@@ -152,6 +152,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
 - [Bitbar Cloud API Client for JavaScript](https://github.com/bitbar/cloud-api-client-js)
+- [Bitbar Remote Device Client](https://github.com/bitbar/remote-device-client)
 - [CBT tunnel-nodejs](https://github.com/crossbrowsertesting/cbt-tunnel-nodejs) - Node.js module for Local Connections to crossbrowsertesting.com
 - [Cucumber](https://github.com/cucumber/cucumber) - Cucumber monorepo - building blocks for Cucumber in various languages
 - [Cucumber C++](https://github.com/cucumber/cucumber-cpp) - Support for writing Cucumber step definitions in C++
