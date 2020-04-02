@@ -12,6 +12,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [By Product](#by-product)
 
   - [Bitbar](#bitbar)
+  - [CrossBrowserTesting](#crossbrowsertesting)
   - [Cucumber](#cucumber)
   - [ReadyAPI](#readyapi)
   - [SoapUI](#SoapUI)
@@ -39,6 +40,8 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
   - [JavaScript](#javascript)
   - [Lua](#lua)
   - [Objective-C](#objective-c)
+  - [PHP](#php)
+  - [Python](#python)
   - [Ruby](#ruby)
 
 ## By Product
@@ -46,7 +49,17 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### Bitbar
 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
-- [Bitbar Test Samples](https://github.com/bitbar/test-samples) - This repository contains Bitbar Cloud sample test scripts and applications.
+- [Bitbar Test Samples](https://github.com/bitbar/test-samples) - This repository contains Bitbar Cloud sample test scripts and applications
+
+### CrossBrowserTesting
+
+- [CBT and Behat](https://github.com/crossbrowsertesting/selenium-php-behat) - A quick guide to using Behat with CBT
+- [CBT and Mocha](https://github.com/crossbrowsertesting/selenium-js-mocha) - An example of writing Selenium tests with Mocha that run on CBT
+- [CBT API Sample Scripts](https://github.com/crossbrowsertesting/API-Sample-Scripts) - Sample scripts for getting started with the CrossBrowserTesting API
+- [CBT selenium-python](https://github.com/crossbrowsertesting/selenium-python) - Selenium script examples using Python for CrossBrowserTesting.com
+- [CBT tunnel-java](https://github.com/crossbrowsertesting/cbt-tunnel-java) - Java JAR for creating Local Connections to CrossBrowserTesting.com on the command line
+- [CBT tunnel-nodejs](https://github.com/crossbrowsertesting/cbt-tunnel-nodejs) - Node.js module for Local Connections to crossbrowsertesting.com
+- [CBT WebDriverIO](https://github.com/crossbrowsertesting/selenium-webdriverio) - Getting Started with WebDriverIO and CrossBrowserTesting
 
 ### Cucumber
 
@@ -134,6 +147,8 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### Tools and Libraries
 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
+- [CBT tunnel-java](https://github.com/crossbrowsertesting/cbt-tunnel-java) - Java JAR for creating Local Connections to CrossBrowserTesting.com on the command line
+- [CBT tunnel-nodejs](https://github.com/crossbrowsertesting/cbt-tunnel-nodejs) - Node.js module for Local Connections to crossbrowsertesting.com
 - [Cucumber](https://github.com/cucumber/cucumber) - Cucumber monorepo - building blocks for Cucumber in various languages
 - [Cucumber C++](https://github.com/cucumber/cucumber-cpp) - Support for writing Cucumber step definitions in C++
 - [Cucumber JS](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
@@ -183,7 +198,12 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 ### Resources
 
-- [Bitbar Test Samples](https://github.com/bitbar/test-samples) - This repository contains Bitbar Cloud sample test scripts and applications.
+- [Bitbar Test Samples](https://github.com/bitbar/test-samples) - This repository contains Bitbar Cloud sample test scripts and applications
+- [CBT and Behat](https://github.com/crossbrowsertesting/selenium-php-behat) - A quick guide to using Behat with CBT
+- [CBT and Mocha](https://github.com/crossbrowsertesting/selenium-js-mocha) - An example of writing Selenium tests with Mocha that run on CBT
+- [CBT API Sample Scripts](https://github.com/crossbrowsertesting/API-Sample-Scripts) - Sample scripts for getting started with the CrossBrowserTesting API
+- [CBT selenium-python](https://github.com/crossbrowsertesting/selenium-python) - Selenium script examples using Python for CrossBrowserTesting.com
+- [CBT WebDriverIO](https://github.com/crossbrowsertesting/selenium-webdriverio) - Getting Started with WebDriverIO and CrossBrowserTesting
 - [Cucumber Java Skeleton](https://github.com/cucumber/cucumber-java-skeleton) - This is the simplest possible setup for Cucumber-JVM using Java
 - [CucumberStudio API documentation](https://github.com/SmartBear/cucumberstudio-api-documentation) - Repo of [CucumberStudio API documentation](https://studio-api.cucumber.io/)
 - [CucumberStudio issue tracker](https://github.com/SmartBear/cucumberstudio-issue-tracker) - This repository tracks bugs and feature requests for CucumberStudio, BDD-enthusiastic collaboration platform for Agile and DevOps teams
@@ -227,6 +247,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### Java
 
 - [Bitbar Cloud API Client for Java](https://github.com/bitbar/testdroid-api)
+- [CBT tunnel-java](https://github.com/crossbrowsertesting/cbt-tunnel-java) - Java JAR for creating Local Connections to CrossBrowserTesting.com on the command line
 - [Cucumber Java Skeleton](https://github.com/cucumber/cucumber-java-skeleton) - This is the simplest possible setup for Cucumber-JVM using Java
 - [Cucumber JVM](https://github.com/cucumber/cucumber-jvm) - Cucumber for the JVM
 - [Gherkin Java](https://github.com/cucumber/gherkin-java) - Gherkin parser/compiler for Java
@@ -240,6 +261,9 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 ### JavaScript
 
+- [CBT and Mocha](https://github.com/crossbrowsertesting/selenium-js-mocha) - An example of writing Selenium tests with Mocha that run on CBT
+- [CBT tunnel-nodejs](https://github.com/crossbrowsertesting/cbt-tunnel-nodejs) - Node.js module for Local Connections to crossbrowsertesting.com
+- [CBT WebDriverIO](https://github.com/crossbrowsertesting/selenium-webdriverio) - Getting Started with WebDriverIO and CrossBrowserTesting
 - [Cucumber JS](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [Deferred Promise](https://github.com/bitbar/deferred-promise) - Simple port of jQuery Deffered() based on native Promise
 - [Gherkin JavaScript](https://github.com/cucumber/gherkin-javascript) - Gherkin parser/compiler for JavaScript
@@ -253,8 +277,13 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 - [Gherkin Objective-C](https://github.com/cucumber/gherkin-objective-c) - Gherkin parser/compiler for Objective C
 
+### PHP
+
+- [CBT and Behat](https://github.com/crossbrowsertesting/selenium-php-behat) - A quick guide to using Behat with CBT
+
 ### Python
 
+- [CBT selenium-python](https://github.com/crossbrowsertesting/selenium-python) - Selenium script examples using Python for CrossBrowserTesting.com
 - [Gherkin Python](https://github.com/cucumber/gherkin-python) - Gherkin parser/compiler for Python
 
 ### Ruby
