@@ -440,24 +440,24 @@ repositories:
       and web services
     url: 'https://github.com/SmartBear/soapui'
     categories:
-      - SoapUI
+      - soapui
       - apps
   - title: SoapUI Pro Functional Testing Plugin
     description: A SmartBear plugin used to run SoapUI Pro tests on TeamCity agents
     url: 'https://github.com/SmartBear/soapui-pro-functional-testing-teamcity-plugin'
     categories:
-      - SoapUI
+      - soapui
       - extensions-and-plugins
   - title: SoapUI RAML Plugin
     url: 'https://github.com/SmartBear/soapui-raml-plugin'
     categories:
-      - SoapUI
+      - soapui
       - extensions-and-plugins
   - title: SoapUI Test Runner Docker Image
     description: Docker SoapUI Test Runner
     url: 'https://github.com/SmartBear/docker-soapui-testrunner'
     categories:
-      - SoapUI
+      - soapui
       - tools-and-libraries
       - docker
   - title: Swagger Codegen

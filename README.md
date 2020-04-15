@@ -107,6 +107,10 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 
 ### SoapUI
 
+- [SoapUI](https://github.com/SmartBear/soapui) - A free and open source cross-platform functional testing solution for APIs and web services
+- [SoapUI Pro Functional Testing Plugin](https://github.com/SmartBear/soapui-pro-functional-testing-teamcity-plugin) - A SmartBear plugin used to run SoapUI Pro tests on TeamCity agents
+- [SoapUI RAML Plugin](https://github.com/SmartBear/soapui-raml-plugin)
+- [SoapUI Test Runner Docker Image](https://github.com/SmartBear/docker-soapui-testrunner) - Docker SoapUI Test Runner
 
 ### Swagger
 
