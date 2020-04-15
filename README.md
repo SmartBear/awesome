@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-	<img width="200" src="logo.svg" alt="SmartBear">
+	<img width="500" src="sb-awesome-logo.svg" alt="SmartBear">
 </div>
 
 # Awesome SmartBear [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
