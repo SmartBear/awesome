@@ -1,0 +1,584 @@
+categories:
+  - name: by-product
+    title: By Product
+    items:
+      - name: bitbar
+        title: Bitbar
+      - name: crossbrowsertesting
+        title: CrossBrowserTesting
+      - name: cucumber
+        title: Cucumber
+      - name: readyapi
+        title: ReadyAPI
+      - name: soapui
+        title: SoapUI
+      - name: swagger
+        title: Swagger
+      - name: swaggerhub
+        title: SwaggerHub
+      - name: testcomplete
+        title: TestComplete
+      - name: zephyr
+        title: Zephyr
+  - name: by-category
+    title: By Category
+    items:
+      - name: apps
+        title: Apps
+      - name: tools-and-libraries
+        title: Tools and Libraries
+      - name: extensions-and-plugins
+        title: Extensions and Plugins
+      - name: resources
+        title: Resources
+  - name: by-technology
+    title: By Technology
+    items:
+      - name: cpp
+        title: C++
+      - name: csharp
+        title: 'C#'
+      - name: docker
+        title: Docker
+      - name: golang
+        title: Go
+      - name: gradle
+        title: Gradle
+      - name: groovy
+        title: Groovy
+      - name: java
+        title: Java
+      - name: javascript
+        title: JavaScript
+      - name: lua
+        title: Lua
+      - name: objective-c
+        title: Objective-C
+      - name: php
+        title: PHP
+      - name: python
+        title: Python
+      - name: ruby
+        title: Ruby
+repositories:
+  - title: aruba
+    description: 'Test command-line applications with Cucumber-Ruby, RSpec or Minitest'
+    url: 'https://github.com/cucumber/aruba'
+    categories:
+      - apps
+  - title: Bitbar Cloud API Client for Java
+    url: 'https://github.com/bitbar/testdroid-api'
+    categories:
+      - bitbar
+      - tools-and-libraries
+      - java
+  - title: Bitbar Cloud API Client for JavaScript
+    url: 'https://github.com/bitbar/cloud-api-client-js'
+    categories:
+      - bitbar
+      - tools-and-libraries
+      - javascript
+  - title: Bitbar Cloud API Client for Python
+    url: 'https://github.com/bitbar/testdroid-api-client-python'
+    categories:
+      - bitbar
+      - python
+  - title: Bitbar Cloud API Client for Ruby
+    url: 'https://github.com/bitbar/cloud-api-client-ruby'
+    categories:
+      - bitbar
+      - ruby
+  - title: Bitbar Cloud Gradle Plugin
+    description: Gradle plugin for Bitbar Cloud
+    url: 'https://github.com/bitbar/android-gradle-plugin'
+    categories:
+      - bitbar
+      - gradle
+  - title: Bitbar Remote Device Client
+    url: 'https://github.com/bitbar/remote-device-client'
+    categories:
+      - bitbar
+      - tools-and-libraries
+      - java
+  - title: Bitbar Test Samples
+    description: This repository contains Bitbar Cloud sample test scripts and applications
+    url: 'https://github.com/bitbar/test-samples'
+    categories:
+      - bitbar
+      - resources
+  - title: CBT and Behat
+    description: A quick guide to using Behat with CBT
+    url: 'https://github.com/crossbrowsertesting/selenium-php-behat'
+    categories:
+      - crossbrowsertesting
+      - resources
+      - php
+  - title: CBT and Mocha
+    description: An example of writing Selenium tests with Mocha that run on CBT
+    url: 'https://github.com/crossbrowsertesting/selenium-js-mocha'
+    categories:
+      - crossbrowsertesting
+      - resources
+      - javascript
+  - title: CBT API Sample Scripts
+    description: Sample scripts for getting started with the CrossBrowserTesting API
+    url: 'https://github.com/crossbrowsertesting/API-Sample-Scripts'
+    categories:
+      - crossbrowsertesting
+      - resources
+  - title: CBT selenium-python
+    description: Selenium script examples using Python for CrossBrowserTesting.com
+    url: 'https://github.com/crossbrowsertesting/selenium-python'
+    categories:
+      - crossbrowsertesting
+      - resources
+      - python
+  - title: CBT tunnel-java
+    description: >-
+      Java JAR for creating Local Connections to CrossBrowserTesting.com on the
+      command line
+    url: 'https://github.com/crossbrowsertesting/cbt-tunnel-java'
+    categories:
+      - crossbrowsertesting
+      - tools-and-libraries
+      - java
+  - title: CBT tunnel-nodejs
+    description: Node.js module for Local Connections to crossbrowsertesting.com
+    url: 'https://github.com/crossbrowsertesting/cbt-tunnel-nodejs'
+    categories:
+      - crossbrowsertesting
+      - tools-and-libraries
+      - javascript
+  - title: CBT WebDriverIO
+    description: Getting Started with WebDriverIO and CrossBrowserTesting
+    url: 'https://github.com/crossbrowsertesting/selenium-webdriverio'
+    categories:
+      - crossbrowsertesting
+      - resources
+      - javascript
+  - title: Cucumber
+    description: Cucumber monorepo - building blocks for Cucumber in various languages
+    url: 'https://github.com/cucumber/cucumber'
+    categories:
+      - cucumber
+      - tools-and-libraries
+  - title: Cucumber C++
+    description: Support for writing Cucumber step definitions in C++
+    url: 'https://github.com/cucumber/cucumber-cpp'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - cpp
+  - title: Cucumber Eclipse
+    description: Eclipse plugin for Cucumber
+    url: 'https://github.com/cucumber/cucumber-eclipse'
+    categories:
+      - cucumber
+      - extensions-and-plugins
+  - title: Cucumber Java Skeleton
+    description: This is the simplest possible setup for Cucumber-JVM using Java
+    url: 'https://github.com/cucumber/cucumber-java-skeleton'
+    categories:
+      - cucumber
+      - resources
+      - java
+  - title: Cucumber JS
+    description: Cucumber for JavaScript
+    url: 'https://github.com/cucumber/cucumber-js'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - javascript
+  - title: Cucumber JVM
+    description: Cucumber for the JVM
+    url: 'https://github.com/cucumber/cucumber-jvm'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - java
+  - title: Cucumber Lua
+    description: A cucumber wire protocol implementation for Lua step definitions
+    url: 'https://github.com/cucumber/cucumber-lua'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - lua
+  - title: Cucumber Rails
+    description: >-
+      Rails Generators for Cucumber with special support for Capybara and
+      DatabaseCleaner
+    url: 'https://github.com/cucumber/cucumber-rails'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - ruby
+  - title: Cucumber Ruby
+    description: Cucumber for Ruby
+    url: 'https://github.com/cucumber/cucumber-ruby'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - ruby
+  - title: Cucumber Ruby Core
+    description: Core library for the Ruby flavour of Cucumber
+    url: 'https://github.com/cucumber/cucumber-ruby-core'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - ruby
+  - title: Cucumber Ruby Tcl
+    description: Tcl bindings for Cucumber
+    url: 'https://github.com/cucumber/cucumber-ruby-tcl'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - ruby
+  - title: Cucumber Ruby Wire
+    description: Wire protocol plugin for Cucumber
+    url: 'https://github.com/cucumber/cucumber-ruby-wire'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - ruby
+  - title: cucumber-jvm-zephyr-xml
+    description: Extension of the official JUnitFormatter with extra XML elements
+    url: 'https://github.com/SmartBear/cucumber-jvm-zephyr-xml'
+    categories:
+      - cucumber
+      - extensions-and-plugins
+  - title: cucumber-tmbundle
+    description: TextMate bundle for Cucumber
+    url: 'https://github.com/cucumber/cucumber-tmbundle'
+    categories:
+      - cucumber
+  - title: CucumberStudio API documentation
+    description: >-
+      Repo of [CucumberStudio API
+      documentation](https://studio-api.cucumber.io/)
+    url: 'https://github.com/SmartBear/cucumberstudio-api-documentation'
+    categories:
+      - cucumber
+      - resources
+  - title: CucumberStudio issue tracker
+    description: >-
+      This repository tracks bugs and feature requests for CucumberStudio,
+      BDD-enthusiastic collaboration platform for Agile and DevOps teams
+    url: 'https://github.com/SmartBear/cucumberstudio-issue-tracker'
+    categories:
+      - cucumber
+      - resources
+  - title: Deferred Promise
+    description: Simple port of jQuery Deffered() based on native Promise
+    url: 'https://github.com/bitbar/deferred-promise'
+    categories:
+      - tools-and-libraries
+      - javascript
+  - title: Eclipse Groovy Development Tools
+    description: >-
+      This project provides Eclipse and Maven tooling support for the Apache
+      Groovy programming language
+    url: 'https://github.com/SmartBear/groovy-eclipse'
+    categories:
+      - extensions-and-plugins
+      - groovy
+  - title: Gherkin .NET
+    description: Gherkin parser/compiler for .NET
+    url: 'https://github.com/cucumber/gherkin-dotnet'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - csharp
+  - title: Gherkin Go
+    description: Gherkin parser/compiler for Go
+    url: 'https://github.com/cucumber/gherkin-go'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - golang
+  - title: Gherkin Java
+    description: Gherkin parser/compiler for Java
+    url: 'https://github.com/cucumber/gherkin-java'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - java
+  - title: Gherkin JavaScript
+    description: Gherkin parser/compiler for JavaScript
+    url: 'https://github.com/cucumber/gherkin-javascript'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - javascript
+  - title: Gherkin Objective-C
+    description: Gherkin parser/compiler for Objective C
+    url: 'https://github.com/cucumber/gherkin-objective-c'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - objective-c
+  - title: Gherkin Python
+    description: Gherkin parser/compiler for Python
+    url: 'https://github.com/cucumber/gherkin-python'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - python
+  - title: Gherkin Ruby
+    description: Gherkin parser/compiler for Ruby
+    url: 'https://github.com/cucumber/gherkin-ruby'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - ruby
+  - title: Godog
+    description: Cucumber for golang
+    url: 'https://github.com/cucumber/godog'
+    categories:
+      - cucumber
+      - tools-and-libraries
+      - golang
+  - title: HAR Java
+    description: A Java library to read from har format and to write in har format
+    url: 'https://github.com/SmartBear/har-java'
+    categories:
+      - tools-and-libraries
+      - java
+  - title: JiraSupport Extension for TestComplete
+    description: >-
+      JiraSupport extension allows you to create and update Jira issues and
+      attach files to them directly from your TestComplete tests
+    url: 'https://github.com/SmartBear/testcomplete-jira-extension'
+    categories:
+      - testcomplete
+      - extensions-and-plugins
+  - title: OpenCV for mobile testing
+    description: >-
+      An image recognition library that can be used for mobile application
+      testing
+    url: 'https://github.com/bitbar/opencv-library'
+    categories:
+      - tools-and-libraries
+      - java
+  - title: ReadyAPI CoAP plugin
+    description: Adds a CoAP TestStep to ReadyAPI functional testing
+    url: 'https://github.com/SmartBear/readyapi-coap-plugin'
+    categories:
+      - readyapi
+      - extensions-and-plugins
+  - title: ReadyAPI Jira integration
+    description: >-
+      Use the JIRA Integration plugin to create JIRA items for failed tests
+      directly from the ReadyAPI IDE
+    url: 'https://github.com/SmartBear/ready-jira-plugin'
+    categories:
+      - readyapi
+      - extensions-and-plugins
+  - title: ReadyAPI MQTT Plugin
+    description: >-
+      Adds two new test steps to the functional testing in ReadyAPI - one for
+      publishing messages to an MQTT broker and one for receiving (and
+      asserting) messages
+    url: 'https://github.com/SmartBear/ready-mqtt-plugin'
+    categories:
+      - readyapi
+      - extensions-and-plugins
+  - title: ReadyAPI Plugin Development Kit
+    description: >-
+      Everything needed to get started with building plugins for SmartBear's
+      ReadyAPI Platform
+    url: 'https://github.com/SmartBear/ready-api-plugins'
+    categories:
+      - readyapi
+      - resources
+  - title: ReadyAPI Postman Plugin
+    description: Allows you to import your Postman collections into ReadyAPI
+    url: 'https://github.com/SmartBear/readyapi-postman-plugin'
+    categories:
+      - readyapi
+      - extensions-and-plugins
+  - title: ReadyAPI TestEngine-CLI
+    description: Node based command line interface for ReadyAPI TestEngine
+    url: 'https://github.com/SmartBear/testengine-cli'
+    categories:
+      - readyapi
+      - tools-and-libraries
+  - title: ReadyAPI TestServer Samples
+    description: Samples showing how to run API tests with ReadyAPI TestServer
+    url: 'https://github.com/SmartBear/ready-api-testserver-samples'
+    categories:
+      - readyapi
+      - resources
+  - title: ReadyAPI4j
+    description: >-
+      Java library for BDD and code-driven API testing supporting both local and
+      remote test execution
+    url: 'https://github.com/SmartBear/readyapi4j'
+    categories:
+      - readyapi
+      - tools-and-libraries
+      - java
+  - title: ReadyAPI4j DSL
+    description: Domain-specific language (DSL) for tests
+    url: 'https://github.com/SmartBear/readyapi4j/tree/master/modules/groovy-dsl'
+    categories:
+      - readyapi
+      - tools-and-libraries
+      - groovy
+  - title: Ruby Handlebars
+    description: Pure Ruby library for Handlebars templates
+    url: 'https://github.com/SmartBear/ruby-handlebars'
+    categories:
+      - ruby
+  - title: ruby-handlebars
+    description: Pure Ruby library for Handlebars templates
+    url: 'https://github.com/SmartBear/ruby-handlebars'
+    categories:
+      - tools-and-libraries
+  - title: SoapUI
+    description: >-
+      A free and open source cross-platform functional testing solution for APIs
+      and web services
+    url: 'https://github.com/SmartBear/soapui'
+    categories:
+      - SoapUI
+      - apps
+  - title: SoapUI Pro Functional Testing Plugin
+    description: A SmartBear plugin used to run SoapUI Pro tests on TeamCity agents
+    url: 'https://github.com/SmartBear/soapui-pro-functional-testing-teamcity-plugin'
+    categories:
+      - SoapUI
+      - extensions-and-plugins
+  - title: SoapUI RAML Plugin
+    url: 'https://github.com/SmartBear/soapui-raml-plugin'
+    categories:
+      - SoapUI
+      - extensions-and-plugins
+  - title: SoapUI Test Runner Docker Image
+    description: Docker SoapUI Test Runner
+    url: 'https://github.com/SmartBear/docker-soapui-testrunner'
+    categories:
+      - SoapUI
+      - tools-and-libraries
+      - docker
+  - title: Swagger Codegen
+    description: >-
+      A template-driven engine to generate documentation, API clients and server
+      stubs in different languages by parsing your OpenAPI / Swagger definition
+    url: 'https://github.com/swagger-api/swagger-codegen'
+    categories:
+      - swagger
+      - apps
+      - java
+  - title: Swagger Converter
+    description: OpenAPI/Swagger 2.0 to OpenAPI 3.0 Converter WebService
+    url: 'https://github.com/swagger-api/swagger-converter'
+    categories:
+      - swagger
+      - tools-and-libraries
+  - title: Swagger Core
+    description: >-
+      Examples and server integrations for generating the Swagger API
+      Specification, which enables easy access to your REST API
+    url: 'https://github.com/swagger-api/swagger-core'
+    categories:
+      - swagger
+      - apps
+      - java
+  - title: Swagger Editor
+    description: >-
+      Edit Swagger API specifications in YAML inside your browser and to preview
+      documentations in real time
+    url: 'https://github.com/swagger-api/swagger-editor'
+    categories:
+      - swagger
+      - apps
+  - title: Swagger Inflector
+    url: 'https://github.com/swagger-api/swagger-inflector'
+    categories:
+      - swagger
+  - title: Swagger JS Client
+    description: >-
+      Javascript library to connect to swagger-enabled APIs via browser or
+      nodejs
+    url: 'https://github.com/swagger-api/swagger-js'
+    categories:
+      - swagger
+      - tools-and-libraries
+      - javascript
+  - title: Swagger Parser
+    description: Swagger Spec to Java POJOs
+    url: 'https://github.com/swagger-api/swagger-parser'
+    categories:
+      - swagger
+      - tools-and-libraries
+      - java
+  - title: Swagger Samples
+    description: Samples for the various Swagger projects under swagger-api
+    url: 'https://github.com/swagger-api/swagger-samples'
+    categories:
+      - swagger
+      - resources
+  - title: Swagger UI
+    description: >-
+      A collection of HTML, Javascript, and CSS assets that dynamically generate
+      beautiful documentation from a Swagger-compliant API
+    url: 'https://github.com/swagger-api/swagger-ui'
+    categories:
+      - swagger
+      - apps
+  - title: Swagger Validator Badge
+    description: Validate your Swagger JSON/YAML today!
+    url: 'https://github.com/swagger-api/validator-badge'
+    categories:
+      - swagger
+      - tools-and-libraries
+  - title: swagger4j
+    description: A simple java library for reading and writing Swagger 1.X definitions
+    url: 'https://github.com/SmartBear/swagger4j'
+    categories:
+      - tools-and-libraries
+      - java
+  - title: SwaggerHub Gradle Plugin
+    description: Gradle plugin for SwaggerHub
+    url: 'https://github.com/swagger-api/swaggerhub-gradle-plugin'
+    categories:
+      - swaggerhub
+      - extensions-and-plugins
+      - gradle
+  - title: SwaggerHub Maven Plugin
+    description: >-
+      A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger
+      definitions with a maven build process, using the SwaggerHub API
+    url: 'https://github.com/swagger-api/swaggerhub-maven-plugin'
+    categories:
+      - swaggerhub
+      - extensions-and-plugins
+      - java
+  - title: ubuno
+    description: (Ubu)ntu based Docker image with (No)de.js
+    url: 'https://github.com/bitbar/ubuno'
+    categories:
+      - docker
+  - title: ubunomo
+    description: (Ubu)ntu based Docker image with (No)de.js and (Mo)ngoDB inside
+    url: 'https://github.com/bitbar/ubunomo'
+    categories:
+      - docker
+  - title: ubunopy
+    description: (Ubu)ntu based Docker image with (No)de.js and (Py)thon inside
+    url: 'https://github.com/bitbar/ubunopy'
+    categories:
+      - docker
+  - title: ubupy
+    description: (Ubu)ntu based Docker image with (Py)thon; Ansible Molecule ready
+    url: 'https://github.com/bitbar/ubupy'
+    categories:
+      - docker
+  - title: Zephyr Enterprise Test Management connector for Jenkins
+    description: >-
+      Creates test cases and publishes test results in Zephyr Enterprise for
+      JUnit test cases
+    url: 'https://github.com/SmartBear/zephyr-enterprise-test-management-plugin'
+    categories:
+      - zephyr
+      - extensions-and-plugins
