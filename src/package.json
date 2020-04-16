@@ -1,0 +1,30 @@
+{
+  "name": "@smartbear/awesome-generator",
+  "version": "1.0.0",
+  "description": "Generator of SmartBear Awesome List",
+  "main": "index.js",
+  "scripts": {
+    "build": "nodejs index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SmartBear/awesome.git"
+  },
+  "keywords": [
+    "smartbear",
+    "awesome"
+  ],
+  "author": "Marek Sierociński <marek.sierocinski@smartbear.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmartBear/awesome/issues"
+  },
+  "homepage": "https://github.com/SmartBear/awesome#readme",
+  "dependencies": {
+    "@bitbar/finka": "^2.0.2",
+    "axios": "^0.19.2",
+    "handlebars": "^4.7.6",
+    "js-yaml": "^3.13.1"
+  }
+}

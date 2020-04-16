@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-	<img width="200" src="logo.svg" alt="SmartBear">
+	<img width="500" src="sb-awesome-logo.svg" alt="SmartBear">
 </div>
 
 # Awesome SmartBear [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -15,7 +15,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
   - [CrossBrowserTesting](#crossbrowsertesting)
   - [Cucumber](#cucumber)
   - [ReadyAPI](#readyapi)
-  - [SoapUI](#SoapUI)
+  - [SoapUI](#soapui)
   - [Swagger](#swagger)
   - [SwaggerHub](#swaggerhub)
   - [TestComplete](#testcomplete)
@@ -79,10 +79,10 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [Cucumber Ruby Core](https://github.com/cucumber/cucumber-ruby-core) - Core library for the Ruby flavour of Cucumber
 - [Cucumber Ruby Tcl](https://github.com/cucumber/cucumber-ruby-tcl) - Tcl bindings for Cucumber
 - [Cucumber Ruby Wire](https://github.com/cucumber/cucumber-ruby-wire) - Wire protocol plugin for Cucumber
-- [CucumberStudio API documentation](https://github.com/SmartBear/cucumberstudio-api-documentation) - Repo of [CucumberStudio API documentation](https://studio-api.cucumber.io/)
-- [CucumberStudio issue tracker](https://github.com/SmartBear/cucumberstudio-issue-tracker) - This repository tracks bugs and feature requests for CucumberStudio, BDD-enthusiastic collaboration platform for Agile and DevOps teams
 - [cucumber-jvm-zephyr-xml](https://github.com/SmartBear/cucumber-jvm-zephyr-xml) - Extension of the official JUnitFormatter with extra XML elements
 - [cucumber-tmbundle](https://github.com/cucumber/cucumber-tmbundle) - TextMate bundle for Cucumber
+- [CucumberStudio API documentation](https://github.com/SmartBear/cucumberstudio-api-documentation) - Repo of [CucumberStudio API documentation](https://studio-api.cucumber.io/)
+- [CucumberStudio issue tracker](https://github.com/SmartBear/cucumberstudio-issue-tracker) - This repository tracks bugs and feature requests for CucumberStudio, BDD-enthusiastic collaboration platform for Agile and DevOps teams
 - [Gherkin .NET](https://github.com/cucumber/gherkin-dotnet) - Gherkin parser/compiler for .NET
 - [Gherkin Go](https://github.com/cucumber/gherkin-go) - Gherkin parser/compiler for Go
 - [Gherkin Java](https://github.com/cucumber/gherkin-java) - Gherkin parser/compiler for Java
@@ -97,7 +97,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [ReadyAPI CoAP plugin](https://github.com/SmartBear/readyapi-coap-plugin) - Adds a CoAP TestStep to ReadyAPI functional testing
 - [ReadyAPI Jira integration](https://github.com/SmartBear/ready-jira-plugin) - Use the JIRA Integration plugin to create JIRA items for failed tests directly from the ReadyAPI IDE
 - [ReadyAPI MQTT Plugin](https://github.com/SmartBear/ready-mqtt-plugin) - Adds two new test steps to the functional testing in ReadyAPI - one for publishing messages to an MQTT broker and one for receiving (and asserting) messages
-- [ReadyAPI Plugin Development Kit](https://github.com/SmartBear/ready-api-plugins) - Everything needed to get started with building plugins for SmartBear's ReadyAPI Platform
+- [ReadyAPI Plugin Development Kit](https://github.com/SmartBear/ready-api-plugins) - Everything needed to get started with building plugins for SmartBear&#x27;s ReadyAPI Platform
 - [ReadyAPI Postman Plugin](https://github.com/SmartBear/readyapi-postman-plugin) - Allows you to import your Postman collections into ReadyAPI
 - [ReadyAPI TestEngine-CLI](https://github.com/SmartBear/testengine-cli) - Node based command line interface for ReadyAPI TestEngine
 - [ReadyAPI TestServer Samples](https://github.com/SmartBear/ready-api-testserver-samples) - Samples showing how to run API tests with ReadyAPI TestServer
@@ -175,10 +175,10 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [Godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [HAR Java](https://github.com/SmartBear/har-java) - A Java library to read from har format and to write in har format
 - [OpenCV for mobile testing](https://github.com/bitbar/opencv-library) - An image recognition library that can be used for mobile application testing
+- [ReadyAPI TestEngine-CLI](https://github.com/SmartBear/testengine-cli) - Node based command line interface for ReadyAPI TestEngine
 - [ReadyAPI4j](https://github.com/SmartBear/readyapi4j) - Java library for BDD and code-driven API testing supporting both local and remote test execution
 - [ReadyAPI4j DSL](https://github.com/SmartBear/readyapi4j/tree/master/modules/groovy-dsl) - Domain-specific language (DSL) for tests
 - [ruby-handlebars](https://github.com/SmartBear/ruby-handlebars) - Pure Ruby library for Handlebars templates
-- [ReadyAPI TestEngine-CLI](https://github.com/SmartBear/testengine-cli) - Node based command line interface for ReadyAPI TestEngine
 - [SoapUI Test Runner Docker Image](https://github.com/SmartBear/docker-soapui-testrunner) - Docker SoapUI Test Runner
 - [Swagger Converter](https://github.com/swagger-api/swagger-converter) - OpenAPI/Swagger 2.0 to OpenAPI 3.0 Converter WebService
 - [Swagger JS Client](https://github.com/swagger-api/swagger-js) - Javascript library to connect to swagger-enabled APIs via browser or nodejs
@@ -213,7 +213,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [Cucumber Java Skeleton](https://github.com/cucumber/cucumber-java-skeleton) - This is the simplest possible setup for Cucumber-JVM using Java
 - [CucumberStudio API documentation](https://github.com/SmartBear/cucumberstudio-api-documentation) - Repo of [CucumberStudio API documentation](https://studio-api.cucumber.io/)
 - [CucumberStudio issue tracker](https://github.com/SmartBear/cucumberstudio-issue-tracker) - This repository tracks bugs and feature requests for CucumberStudio, BDD-enthusiastic collaboration platform for Agile and DevOps teams
-- [ReadyAPI Plugin Development Kit](https://github.com/SmartBear/ready-api-plugins) - Everything needed to get started with building plugins for SmartBear's ReadyAPI Platform
+- [ReadyAPI Plugin Development Kit](https://github.com/SmartBear/ready-api-plugins) - Everything needed to get started with building plugins for SmartBear&#x27;s ReadyAPI Platform
 - [ReadyAPI TestServer Samples](https://github.com/SmartBear/ready-api-testserver-samples) - Samples showing how to run API tests with ReadyAPI TestServer
 - [Swagger Samples](https://github.com/swagger-api/swagger-samples) - Samples for the various Swagger projects under swagger-api
 

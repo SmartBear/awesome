@@ -1,0 +1,36 @@
+<br>
+<div align="center">
+	<img width="500" src="sb-awesome-logo.svg" alt="SmartBear">
+</div>
+
+# Awesome SmartBear [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 🐻
+
+## Contents
+
+{{#each categories as | category |}}
+- [{{category.title}}](#{{category.name}})
+
+  {{#each category.items as | sub |}}
+  - [{{sub.title}}](#{{sub.name}})
+  {{/each}}
+
+{{/each}}
+{{#each categories as | category |}}
+## {{category.title}}
+
+  {{#each items as | sub |}}
+### {{#if (isCustomAnchorNeeded sub.name sub.title)}}<a name="{{sub.name}}"></a> {{/if}}{{sub.title}}
+
+    {{#each @root.repositories as | repo |}}
+      {{#if (isInCategory sub.name repo.categories)}}
+- [{{repo.title}}]({{repo.url}}){{#if repo.description}} - {{repo.description}}{{/if}}
+      {{/if}}
+    {{/each}}
+
+  {{/each}}
+{{/each}}
+## License
+
+This document is using [CC0 1.0 Universal](LICENSE).
