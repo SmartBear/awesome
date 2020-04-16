@@ -12,4 +12,4 @@
     npm run build
     ```
 
-1. Check is generated README.md (in root) has been properly generated. Double-check git diff.
+1. Check if generated README.md (in the root directory) has been properly created. Double-check git diff.
