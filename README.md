@@ -132,6 +132,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### TestComplete
 
 - [JiraSupport Extension for TestComplete](https://github.com/SmartBear/testcomplete-jira-extension) - JiraSupport extension allows you to create and update Jira issues and attach files to them directly from your TestComplete tests
+- [VideoRecorder Extension for TestComplete](https://github.com/SmartBear/testcomplete-videorecorder-extension) - Extension allows you to record a video from your TestComplete tests. It helps to analayze issues.
 
 ### Zephyr
 
