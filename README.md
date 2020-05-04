@@ -5,7 +5,7 @@
 
 # Awesome SmartBear [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 🐻
+List of awesome opensource SmartBear Apps, Tools, Repos, Packages, and Resources 🐻
 
 ## Contents
 
