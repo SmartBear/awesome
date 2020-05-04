@@ -32,7 +32,7 @@ in one place, not 3 for example.
 
 ### Template
 
-Template of `README.md` is in `AWESOME-LIST.handlebars`
+Template of `README.md` is in `template.handlebars`
 ([link to Handlebars guide](https://handlebarsjs.com/guide/))
 
 ## Building

@@ -5,7 +5,7 @@
 
 # Awesome SmartBear [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 🐻
+List of awesome opensource SmartBear Apps, Tools, Repos, Packages, and Resources 🐻
 
 ## Contents
 
@@ -132,6 +132,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 ### TestComplete
 
 - [JiraSupport Extension for TestComplete](https://github.com/SmartBear/testcomplete-jira-extension) - JiraSupport extension allows you to create and update Jira issues and attach files to them directly from your TestComplete tests
+- [VideoRecorder Extension for TestComplete](https://github.com/SmartBear/testcomplete-videorecorder-extension) - Extension allows you to record a video from your TestComplete tests. It helps to analayze issues.
 
 ### Zephyr
 
@@ -201,6 +202,7 @@ List of awesome opensource SmarBear Apps, Tools, Repos, Packages, and Resources 
 - [SwaggerHub Gradle Plugin](https://github.com/swagger-api/swaggerhub-gradle-plugin) - Gradle plugin for SwaggerHub
 - [SwaggerHub Maven Plugin](https://github.com/swagger-api/swaggerhub-maven-plugin) - A simple maven plugin to access SwaggerHub hosting of OpenAPI/Swagger definitions with a maven build process, using the SwaggerHub API
 - [Zephyr Enterprise Test Management connector for Jenkins](https://github.com/SmartBear/zephyr-enterprise-test-management-plugin) - Creates test cases and publishes test results in Zephyr Enterprise for JUnit test cases
+- [VideoRecorder Extension for TestComplete](https://github.com/SmartBear/testcomplete-videorecorder-extension) - Extension allows you to record a video from your TestComplete tests. It helps to analayze issues.
 
 ### Resources
 
