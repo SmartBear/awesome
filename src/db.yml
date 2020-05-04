@@ -582,3 +582,9 @@ repositories:
     categories:
       - zephyr
       - extensions-and-plugins
+  - title: VideoRecorder Extension for TestComplete
+    description: Extension allows you to record a video from your TestComplete tests. It helps to analayze issues.
+    url: 'https://github.com/SmartBear/testcomplete-videorecorder-extension'
+    categories:
+      - testcomplete
+      - extensions-and-plugins
