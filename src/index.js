@@ -17,7 +17,7 @@ Handlebars.registerHelper('isInCategory', function (name, categories) {
 const db = yaml.safeLoad(fs.readFileSync('./db.yml', 'utf8'));
 
 // Prepare Awesome List template
-const generate = Handlebars.compile(fs.readFileSync('./AWESOME-LIST.handlebars', 'utf8'));
+const generate = Handlebars.compile(fs.readFileSync('./template.handlebars', 'utf8'));
 
 // Generate new README.md
 const readme = generate(db);
