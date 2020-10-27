@@ -106,6 +106,12 @@ repositories:
     categories:
       - bitbar
       - resources
+  - title: BrowserInfo
+    description: Tiny developer-friendly JS library that provides information about host's browser
+    url: 'https://github.com/SmartBear/browser-info'
+    categories:
+      - tools-and-libraries
+      - javascript
   - title: CBT and Behat
     description: A quick guide to using Behat with CBT
     url: 'https://github.com/crossbrowsertesting/selenium-php-behat'
