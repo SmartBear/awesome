@@ -92,6 +92,7 @@ List of awesome opensource SmartBear Apps, Tools, Repos, Packages, and Resources
 - [Gherkin Python](https://github.com/cucumber/gherkin-python) - Gherkin parser/compiler for Python
 - [Gherkin Ruby](https://github.com/cucumber/gherkin-ruby) - Gherkin parser/compiler for Ruby
 - [Godog](https://github.com/cucumber/godog) - Cucumber for golang
+- [React gherkin editor](https://github.com/SmartBear/react-gherkin-editor) - An editor specially designed for Gherkin
 
 ### ReadyAPI
 
@@ -179,6 +180,7 @@ List of awesome opensource SmartBear Apps, Tools, Repos, Packages, and Resources
 - [Godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [HAR Java](https://github.com/SmartBear/har-java) - A Java library to read from har format and to write in har format
 - [OpenCV for mobile testing](https://github.com/bitbar/opencv-library) - An image recognition library that can be used for mobile application testing
+- [React gherkin editor](https://github.com/SmartBear/react-gherkin-editor) - An editor specially designed for Gherkin
 - [ReadyAPI TestEngine-CLI](https://github.com/SmartBear/testengine-cli) - Node based command line interface for ReadyAPI TestEngine
 - [ReadyAPI4j](https://github.com/SmartBear/readyapi4j) - Java library for BDD and code-driven API testing supporting both local and remote test execution
 - [ReadyAPI4j DSL](https://github.com/SmartBear/readyapi4j/tree/master/modules/groovy-dsl) - Domain-specific language (DSL) for tests
@@ -282,6 +284,7 @@ List of awesome opensource SmartBear Apps, Tools, Repos, Packages, and Resources
 - [Cucumber JS](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [Deferred Promise](https://github.com/bitbar/deferred-promise) - Simple port of jQuery Deffered() based on native Promise
 - [Gherkin JavaScript](https://github.com/cucumber/gherkin-javascript) - Gherkin parser/compiler for JavaScript
+- [React gherkin editor](https://github.com/SmartBear/react-gherkin-editor) - An editor specially designed for Gherkin
 - [Swagger JS Client](https://github.com/swagger-api/swagger-js) - Javascript library to connect to swagger-enabled APIs via browser or nodejs
 
 ### Lua
