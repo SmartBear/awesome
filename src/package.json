@@ -23,7 +23,7 @@
   "homepage": "https://github.com/SmartBear/awesome#readme",
   "dependencies": {
     "@bitbar/finka": "^2.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "handlebars": "^4.7.6",
     "js-yaml": "^3.13.1"
   }
